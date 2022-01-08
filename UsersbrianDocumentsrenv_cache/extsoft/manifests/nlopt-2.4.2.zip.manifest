@@ -1,0 +1,7 @@
+include/nlopt.f
+include/nlopt.h
+include/nlopt.hpp
+lib/i386/libnlopt.a
+lib/i386/libnlopt_cxx.a
+lib/x64/libnlopt.a
+lib/x64/libnlopt_cxx.a
