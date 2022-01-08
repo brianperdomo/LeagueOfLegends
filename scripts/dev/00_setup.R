@@ -16,3 +16,4 @@ renv::snapshot()
 
 # Set up git and GitHub ----
 usethis::use_git()
+usethis::use_github()
